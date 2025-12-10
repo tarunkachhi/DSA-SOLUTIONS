@@ -1,0 +1,17 @@
+# Executables
+*.exe
+*.dll
+
+# Object & intermediate files
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.pch
+
+# Build directories
+/build/
+/out/
+/bin/
+/Debug/
+/Release/
