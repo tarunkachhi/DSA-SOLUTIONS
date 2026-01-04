@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    int num = 5 ; //Initialising number
+    int num = 5 ; 
     
     bool isPrime =true; //Taking Prime number as TRUE (boolean)
 
